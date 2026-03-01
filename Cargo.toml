@@ -1,6 +1,6 @@
 [package]
 name = "duplicate-cli"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 license = "MIT"
 description = "Run N copies of a command and view their outputs side-by-side in one terminal."
