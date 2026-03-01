@@ -15,7 +15,7 @@ Useful for:
 
 ### With Cargo (cross-platform)
 ```bash
-cargo install --path .
+cargo install duplicate-cli
 ```
 ### With pre-built binaries (cross-platform)
 ```bash
